@@ -30,7 +30,7 @@ const BlogLayout = ({ children }: BlogLayoutProps) => {
         <nav>
           <ul>
             <li>
-              <Link to={routes.home()}>Home</Link>
+              <Link to={routes.home()}>Home Page</Link>
             </li>
             <li>
               <Link to={routes.about()}>About</Link>
